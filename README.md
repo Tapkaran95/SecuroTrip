@@ -1,3 +1,4 @@
+# SecuroTrip
 SecuroTrip is a Tours and Travels based website that let clients travel to the desired destinations with all COVID-19 precautions besides making privacy a primary concern.
 It allows the client to contact the admins of the website after finalizing the destination and provide their contact information which is then forwarded to the tourism spot’s tour and travels agencies, which can then contact the client and give them choices to choose from,
 as well as the current Covid situation. 
