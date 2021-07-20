@@ -19,3 +19,21 @@ It’ll also help in booming the Tourism Industry of a country by directing tour
 <!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
 </p>
 <h2 align="center">Home Page</h2>
+<br><br>
+<p align="center">
+  <img src="public/images/2.png" width="700" height="700" title="hover text">
+<!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
+</p>
+<h2 align="center">Destination With Map</h2>
+<br><br>
+<p align="center">
+  <img src="public/images/3.png" width="700" height="450" title="hover text">
+<!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
+</p>
+<h2 align="center">Create Post</h2>
+<br><br>
+<p align="center">
+  <img src="public/images/4.png" width="700" height="450" title="hover text">
+<!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
+</p>
+<h2 align="center">Update Post</h2>
