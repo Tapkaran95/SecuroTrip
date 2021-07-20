@@ -12,3 +12,10 @@ It can be referred as a “Plug and Play Project” which can later be converted
 It'll help local tour and travel agencies that lack widespread audiences, gain said audiences
 by enabling businesses to go online reaching customers, further boosting their business capabilities.
 It’ll also help in booming the Tourism Industry of a country by directing tourist traffic to places of which people might not have heard of, and may also give a new life to these spots.
+
+
+<p align="center">
+  <img src="public/images/1.png" width="700" height="350" title="hover text">
+<!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
+</p>
+<h2 align="center">Home Page</h2>
